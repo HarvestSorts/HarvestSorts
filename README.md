@@ -12,6 +12,8 @@ TBA
 | --- | --- |
 | [aprilhvs.neocities.org](https://github.com/HarvestSorts/neocities) | A nice little website with tweets and a blog. |
 | [Adventure Tools](https://github.com/HarvestSorts/Advtools) | Finally, a maximalist resources guide for Minecraft. |
+| [April's Expanded Tooltips](https://github.com/HarvestSorts/aprils-expanded-tooltips) | An addon for Expanded Tooltips & Immersive Tips, with support for English (US/CA) and Anglish. |
+| [Janitorial](https://github.com/HarvestSorts/janitorial) | What I would have removed from Discord's UI. |
 
 ### On This Repository
 | Page | Description |
